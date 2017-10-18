@@ -5,3 +5,5 @@
 3：安卓动画&nbsp;&nbsp;&nbsp;&nbsp;http://www.jianshu.com/p/420629118c10
 
 4：沉浸式状态栏&nbsp;&nbsp;&nbsp;&nbsp;http://blog.csdn.net/guolin_blog/article/details/51763825
+
+5：水波纹效果&nbsp;&nbsp;&nbsp;&nbsp;http://blog.csdn.net/u012702547/article/details/52325418
