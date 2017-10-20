@@ -7,3 +7,5 @@
 4：沉浸式状态栏&nbsp;&nbsp;&nbsp;&nbsp;http://blog.csdn.net/guolin_blog/article/details/51763825
 
 5：水波纹效果&nbsp;&nbsp;&nbsp;&nbsp;http://blog.csdn.net/u012702547/article/details/52325418
+
+6：Fragment详细介绍&nbsp;&nbsp;&nbsp;&nbsp;http://blog.csdn.net/lmj623565791/article/details/37970961/
