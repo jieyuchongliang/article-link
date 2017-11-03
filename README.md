@@ -13,3 +13,5 @@
 7：自定义组合控件&nbsp;&nbsp;&nbsp;&nbsp;http://blog.csdn.net/baojie0327/article/details/52253193
 
 8：Design库-TabLayout属性详解&nbsp;&nbsp;&nbsp;&nbsp;http://www.jianshu.com/p/2b2bb6be83a8
+
+9:ViewPager 全面剖析及使用详解&nbsp;&nbsp;&nbsp;&nbsp;http://www.jianshu.com/p/e5abbda4a71c
