@@ -9,3 +9,5 @@
 5：水波纹效果&nbsp;&nbsp;&nbsp;&nbsp;http://blog.csdn.net/u012702547/article/details/52325418
 
 6：Fragment详细介绍&nbsp;&nbsp;&nbsp;&nbsp;http://blog.csdn.net/lmj623565791/article/details/37970961/
+
+7：自定义组合控件&nbsp;&nbsp;&nbsp;&nbsp;http://blog.csdn.net/baojie0327/article/details/52253193
