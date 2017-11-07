@@ -15,3 +15,4 @@
 8：Design库-TabLayout属性详解&nbsp;&nbsp;&nbsp;&nbsp;http://www.jianshu.com/p/2b2bb6be83a8
 
 9:ViewPager 全面剖析及使用详解&nbsp;&nbsp;&nbsp;&nbsp;http://www.jianshu.com/p/e5abbda4a71c
+http://blog.csdn.net/harvic880925/article/details/38453725
