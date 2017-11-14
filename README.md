@@ -16,3 +16,5 @@
 
 9:ViewPager 全面剖析及使用详解&nbsp;&nbsp;&nbsp;&nbsp;http://www.jianshu.com/p/e5abbda4a71c
 http://blog.csdn.net/harvic880925/article/details/38453725
+
+10：安卓6.0权限申请&nbsp;&nbsp;&nbsp;&nbsp;http://blog.csdn.net/xuezhe__/article/details/51541553
