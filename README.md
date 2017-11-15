@@ -20,3 +20,5 @@ http://blog.csdn.net/harvic880925/article/details/38453725
 10：安卓6.0权限申请&nbsp;&nbsp;&nbsp;&nbsp;http://blog.csdn.net/xuezhe__/article/details/51541553
 
 11:snackbar使用精简&nbsp;&nbsp;&nbsp;&nbsp;http://www.jianshu.com/p/cd1e80e64311/
+
+12：android7.0解决android.os.FileUriExposedException异常问题&nbsp;&nbsp;&nbsp;&nbsp;http://blog.csdn.net/xiaoyu940601/article/details/54406725
