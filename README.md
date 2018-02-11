@@ -22,3 +22,5 @@ http://blog.csdn.net/harvic880925/article/details/38453725
 11:snackbar使用精简&nbsp;&nbsp;&nbsp;&nbsp;http://www.jianshu.com/p/cd1e80e64311/
 
 12：android7.0解决android.os.FileUriExposedException异常问题&nbsp;&nbsp;&nbsp;&nbsp;http://blog.csdn.net/xiaoyu940601/article/details/54406725
+
+13:使用SurfaceView画图&nbsp;&nbsp;&nbsp;&nbsp;https://www.cnblogs.com/zhangyingai/p/7087371.html
