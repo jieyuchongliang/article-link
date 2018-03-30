@@ -28,3 +28,5 @@ http://blog.csdn.net/harvic880925/article/details/38453725
 14：属性动画 &nbsp;&nbsp;&nbsp;&nbsp; https://www.jianshu.com/p/d23f58f4368d
 
 15：IJKplayer播放器 &nbsp;&nbsp;&nbsp;&nbsp;https://www.jianshu.com/p/c6620e27a67a
+
+16:DialogFragment&nbsp;&nbsp;&nbsp;&nbsp;https://www.jianshu.com/p/c9f20ec7277a
