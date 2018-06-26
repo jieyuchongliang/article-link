@@ -33,4 +33,4 @@ http://blog.csdn.net/harvic880925/article/details/38453725
 
 17:GreenDao Exception in thread "main" java.lang.NoClassDefFoundError: de/greenrobot/daogenerator/Schema问题解决  &nbsp;&nbsp;&nbsp;&nbsp;https://stackoverflow.com/questions/42843031/noclassdeffounderror-when-trying-to-run-daogenerator-for-greendao
 
-18：从本地更新已有项目到  &nbsp;&nbsp;&nbsp;&nbsp;githubhttps://blog.csdn.net/huangliniqng/article/details/77732645
+18：从本地更新已有项目到  &nbsp;&nbsp;&nbsp;&nbsp;https://blog.csdn.net/huangliniqng/article/details/77732645
