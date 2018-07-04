@@ -36,3 +36,5 @@ http://blog.csdn.net/harvic880925/article/details/38453725
 18：从本地更新已有项目到  &nbsp;&nbsp;&nbsp;&nbsp;https://blog.csdn.net/huangliniqng/article/details/77732645
 
 19:将本地项目提交到github（首次提交） &nbsp;&nbsp;&nbsp;&nbsp;https://www.cnblogs.com/specter45/p/github.html#s4
+
+20：全局捕捉crash  &nbsp;&nbsp;&nbsp;&nbsp;https://blog.csdn.net/wozuihaole/article/details/70224920  &nbsp;&nbsp;&nbsp;&nbsp;https://blog.csdn.net/afei__/article/details/51584859
