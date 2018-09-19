@@ -40,3 +40,5 @@ http://blog.csdn.net/harvic880925/article/details/38453725
 20：全局捕捉crash  &nbsp;&nbsp;&nbsp;&nbsp;https://blog.csdn.net/wozuihaole/article/details/70224920  &nbsp;&nbsp;&nbsp;&nbsp;https://blog.csdn.net/afei__/article/details/51584859
 
 21:apk 重签名&nbsp;&nbsp;&nbsp;&nbsp; https://blog.csdn.net/langlinsen516/article/details/53203403
+
+22：翻墙： https://elearning-pa.fsi.co.jp/elearning/
