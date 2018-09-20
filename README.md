@@ -42,3 +42,5 @@ http://blog.csdn.net/harvic880925/article/details/38453725
 21:apk 重签名&nbsp;&nbsp;&nbsp;&nbsp; https://blog.csdn.net/langlinsen516/article/details/53203403
 
 22：翻墙： https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
+
+23：retrofit封装  https://blog.csdn.net/qq_20521573/article/details/70991850/
