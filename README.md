@@ -44,3 +44,5 @@ http://blog.csdn.net/harvic880925/article/details/38453725
 22：翻墙： https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 23：retrofit封装  https://blog.csdn.net/qq_20521573/article/details/70991850/
+
+24:优秀开源框架总结 https://blog.csdn.net/zhaihaohao1/article/details/78626121
