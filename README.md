@@ -46,3 +46,5 @@ http://blog.csdn.net/harvic880925/article/details/38453725
 23：retrofit封装  https://blog.csdn.net/qq_20521573/article/details/70991850/
 
 24:优秀开源框架总结 https://blog.csdn.net/zhaihaohao1/article/details/78626121
+
+25：retrofit日志拦截器无法打印body信息的问题 https://www.jianshu.com/p/f1947179469c
